@@ -1,5 +1,4 @@
 <h1 align="center">Hello there 👋, I am Hiten Sharma</h1>
-<h3 align="center">I am a Second Year Information Technology student</h3>
 
 - 🔭 I’m currently pursuing Engineering at **ABV-IIITM Gwalior**
 
