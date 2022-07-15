@@ -26,4 +26,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hitenSharm&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FhitenSharm&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a>
